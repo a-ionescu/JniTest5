@@ -1,4 +1,1 @@
 APP_ABI := armeabi, x86
-APP_ALLOW_MISSING_DEPS=true
-APP_STL := stlport_static
-LOCAL_ALLOW_UNDEFINED_SYMBOLS := true
